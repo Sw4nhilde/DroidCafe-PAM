@@ -46,7 +46,7 @@ Aplikasi "Droid Cafe" adalah aplikasi sederhana yang mensimulasikan menu kafe. P
 
 1.  **Clone** repositori ini ke komputer lokal Anda.
     ```bash
-    git clone [URL_REPO_ANDA.git]
+    git clone https://github.com/Sw4nhilde/DroidCafe-PAM.git
     ```
 2.  Buka proyek menggunakan **Android Studio**.
 3.  Tunggu hingga proses *Gradle Sync* selesai.
